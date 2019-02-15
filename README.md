@@ -3,7 +3,7 @@
 ----
 AukeyCloud是一站式DevOps运维解决方案。
 
-[操作文档](https://aukey-cloud.gitbook.io/aukeycloud/)
+<a href="https://aukey-cloud.gitbook.io/aukeycloud/" target="_blank">操作文档</a>
 
 ----
 
