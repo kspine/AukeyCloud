@@ -3,6 +3,8 @@
 ----
 AukeyCloud是一站式DevOps运维解决方案。
 
+[操作文档](https://aukey-cloud.gitbook.io/aukeycloud/)
+
 ----
 
 * [01 操作中心](cao-zuo-zhong-xin.md)
