@@ -47,7 +47,7 @@ description: 【AukeyCloud】监控使用手册 v1.0
 * 高效的历史数据query组件：采用rrdtool的数据归档策略，快速返回上百个metric的历史数据
 * dashboard：多维度的数据展示，用户自定义模板
 * 支持Nodata监控、主机存活监控等
-* 开发语言： 使用前后端分离架构，整个系统的后端，全部python编写，前端使用vue.js编写。
+* 开发语言： 使用前后端分离架构，整个系统的后端，由Python+Go语言编写，前端使用vue.js编写。
 
 ### 4. 功能介绍 <a id="4-gong-neng-jie-shao"></a>
 
