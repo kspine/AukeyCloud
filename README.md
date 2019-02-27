@@ -2,6 +2,8 @@
 
 AukeyCloud是一站式DevOps运维解决方案。
 
+后续操作手册将陆续更新。
+
 [操作手册](https://aukey-cloud.gitbook.io/aukeycloud/)
 
 * [AukeyCloud - 傲基云](README.md)
